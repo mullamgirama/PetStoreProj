@@ -1,0 +1,9 @@
+// Allure configuration file
+module.exports = {
+  allure: {
+    host: 'localhost',
+    port: '4040',
+    basePath: '',
+    resultsDir: 'allure-results'
+  }
+};
